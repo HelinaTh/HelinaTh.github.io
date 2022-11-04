@@ -1,8 +1,12 @@
-table, th, td {
-  background-color: lightblue; 
+
+table {
   witdh: 50%;
-  opacity: 0.3;
+}
+
+table, th, td {
   border: 1px solid;
+  padding: 15px;
+  text-align: left;
 }
 
 th {
@@ -10,9 +14,14 @@ th {
   color: white;
 }
 
+tr {
+  background-color: lightblue;
+}
+
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+  padding-top: 100px;
 }
