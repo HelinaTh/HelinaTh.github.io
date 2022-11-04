@@ -5,6 +5,7 @@ body {
 
 table {
   witdh: 50%;
+  padding-bottom: 20px;
 }
 
 table, th, td {
@@ -25,6 +26,5 @@ tr {
 }
 
 img {
-  padding-top: 20px;
-  object-fit: cover;
+  float: center;
 }
