@@ -2,6 +2,7 @@
 body {
   font-family: "Courier New", monospace;
   font-size: 100%;
+  witdh: 50%;
 }
 
 table, th, td {
@@ -26,7 +27,7 @@ th {
   background-color: #AED6F1;
   text-align: center;
   color: white;
-  font-size: 110%;
+  font-size: 130%;
 }
 
 tr {
