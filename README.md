@@ -1,2 +1,2 @@
 # HelinaTh.github.io
-8. nädala kontrolltöö: progekeeled ja veebirakendused
+Kontrolltöö: nädal 6, 13. oktoobri loengu materjalide kohta
